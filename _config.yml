@@ -16,12 +16,12 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
-title_separator          : "-"
+title                    : "돌아간다 신난다"
+title_separator          : "그날그날 배운 것들을 기록하는 기술 블로그"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
+name                     : "IMVELY"
 description              : "An amazing website."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : " " # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -93,11 +93,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "DAYOUNG"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  location         : "republic of korea"
+  email            : "lim.dayeong@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
