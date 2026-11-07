@@ -1,0 +1,18 @@
+# 뉴리의창고. 검색 엔진과 AI 검색 크롤러(geo-crawlers 기준) 모두 허용, 비공개 폴더는 제외
+User-agent: *
+User-agent: OAI-SearchBot
+User-agent: ChatGPT-User
+User-agent: GPTBot
+User-agent: Claude-SearchBot
+User-agent: ClaudeBot
+User-agent: PerplexityBot
+User-agent: Google-Extended
+User-agent: Bingbot
+User-agent: Yeti
+Disallow: /nyuri-garden/%EC%97%B0%EA%B5%AC/
+Disallow: /nyuri-garden/%EA%B0%95%EC%9D%98/
+Disallow: /nyuri-garden/%EC%95%84%EC%9D%B4%EB%94%94%EC%96%B4/
+Disallow: /nyuri-garden/%EC%9D%BC%EC%A7%80/
+Allow: /
+
+Sitemap: https://imvely.github.io/nyuri-garden/sitemap.xml
