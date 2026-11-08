@@ -16,3 +16,4 @@ Disallow: /nyuri-garden/%EC%9D%BC%EC%A7%80/
 Allow: /
 
 Sitemap: https://imvely.github.io/nyuri-garden/sitemap.xml
+#DaumWebMasterTool:b5f5a17a8b096e949c9c1aac83c7d4311f672fec472a42833ebe85fa1ac6dc62:8eDCqJCqTZrYCvf1G9zNRA==
